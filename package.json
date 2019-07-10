@@ -1,0 +1,21 @@
+{
+  "name": "@dxy/stylelint-dxymom",
+  "version": "1.0.0",
+  "description": "丁香妈妈stylelint个性化规则",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.dxy.net:f2e/stylelint-dxymom.git"
+  },
+  "author": "liujialong",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "^8.0.0"
+  },
+  "dependencies": {
+    "postcss-value-parser": "^3.3.0"
+  }
+}
