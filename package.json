@@ -1,5 +1,5 @@
 {
-  "name": "@dxy/stylelint-dxymom",
+  "name": "@dxy-mom/stylelint-tinyapp",
   "version": "1.0.0",
   "description": "丁香妈妈stylelint个性化规则",
   "main": "index.js",
